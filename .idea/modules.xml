@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/springcore.iml" filepath="$PROJECT_DIR$/.idea/springcore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/02 spring boot-devtools.iml" filepath="$PROJECT_DIR$/.idea/02 spring boot-devtools.iml" />
     </modules>
   </component>
 </project>
